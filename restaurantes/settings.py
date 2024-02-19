@@ -40,13 +40,13 @@ RENDER_EXTERNAL_HOSTNAME = os.environ.get('RENDER_EXTERNAL_HOSTNAME')
 if RENDER_EXTERNAL_HOSTNAME:
     ALLOWED_HOSTS.append(RENDER_EXTERNAL_HOSTNAME)
 
-# CORS_ORIGIN_ALLOW_ALL = True  # Permitir solicitudes desde cualquier origen
+CORS_ORIGIN_ALLOW_ALL = True  # Permitir solicitudes desde cualquier origen
 
 # O, si deseas permitir solo ciertos orígenes:
-CORS_ORIGIN_WHITELIST = [
-    'http://localhost:5173',  # Agrega aquí el origen de tu aplicación React
-    'https://restaurantes-react-vite.vercel.app' #que no termine en /
-]
+# CORS_ORIGIN_WHITELIST = [
+#     'http://localhost:5173',  # Agrega aquí el origen de tu aplicación React
+#     'https://restaurantes-react-vite.vercel.app' #que no termine en /
+# ]
 
 
 # Application definition
