@@ -1,0 +1,308 @@
+[
+    {
+        "rating": 5,
+        "imagen": "https://th.bing.com/th/id/OIP.F5aMLaE1Vvkjh-T4EpyqvAHaLH?w=800&h=1200&rs=1&pid=ImgDetMain",
+        "nombre": "Hurtado, Rolón and S",
+        "contactos": {
+            "sitio_web": "https://elías.org",
+            "email": "https://elías.org",
+            "telefono": "559.867.074"
+        },
+        "direcciones": {
+            "calle": "039 Susana Polígono",
+            "ciudad": "Marco Antonioland",
+            "estado": "Colima",
+            "latitud": 19.43349766301504,
+            "longitud": -99.12851350657212
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://www.e-architect.com/wp-content/uploads/2021/12/ling-ling-restaurant-by-hakkasan-lighting-u071221-m5.jpg",
+        "nombre": "Ling Ling by Hakkasan",
+        "contactos": {
+            "sitio_web": "https://linktr.ee/linglingmx",
+            "email": "https://linktr.ee/linglingmx",
+            "telefono": "+525532799204"
+        },
+        "direcciones": {
+            "calle": "Av. P.º de la Reforma 509-Piso 56, Cuauhtémoc, 06500 , CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.424603873103642,
+            "longitud": -99.17583958214234
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://resizer.otstatic.com/v2/photos/large/25739301.jpg",
+        "nombre": "Quintonil",
+        "contactos": {
+            "sitio_web": "http://www.quintonil.com/",
+            "email": "http://www.quintonil.com/",
+            "telefono": "+525552802680"
+        },
+        "direcciones": {
+            "calle": "Av. Isaac Newton 55, Polanco, Polanco IV Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.43168407803681,
+            "longitud": -99.19163214142823
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://th.bing.com/th/id/OIP.gZOH3inJSJiVVB-InUQbXQHaLH?rs=1&pid=ImgDetMain",
+        "nombre": "Restaurante Sonia",
+        "contactos": {
+            "sitio_web": "https://restaurantesonia.com.mx/",
+            "email": "https://restaurantesonia.com.mx/",
+            "telefono": "+525559414956"
+        },
+        "direcciones": {
+            "calle": "Oxford 23, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.42556136323589,
+            "longitud": -99.16895863159105
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://th.bing.com/th/id/R.da4fefa0973d2a5e25ffc1f120223a41?rik=5kQnesxuL86HhA&riu=http%3a%2f%2fcdn.designrulz.com%2fwp-content%2fuploads%2f2015%2f08%2fchapulin-restaurant_designrulz-6.jpg&ehk=InWV%2f6pAQjG6Q9kYTqwVuNi%2fg0xa5lkwkJ7GCLnKVrs%3d&risl=&pid=ImgRaw&r=0",
+        "nombre": "Chapulín",
+        "contactos": {
+            "sitio_web": "http://www.chapulin.rest/",
+            "email": "http://www.chapulin.rest/http://www.chapulin.rest/",
+            "telefono": "+525553277789"
+        },
+        "direcciones": {
+            "calle": "Campos Elíseos 218, Polanco, Polanco IV Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.428715555175064,
+            "longitud": -99.19295333333889
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://foodandpleasure.com/wp-content/uploads/2018/09/rosa-negra-06.jpg",
+        "nombre": "Rosa Negra ",
+        "contactos": {
+            "sitio_web": "https://rosanegra.com.mx/es/menu",
+            "email": "https://rosanegra.com.mx/es/menu",
+            "telefono": "+525552822603"
+        },
+        "direcciones": {
+            "calle": "Av. Pdte. Masaryk 298, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.432924544435554,
+            "longitud": -99.19346831742192
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://th.bing.com/th/id/OIP.G7e20YqjkgBV7mqvzm0qLQAAAA?rs=1&pid=ImgDetMain",
+        "nombre": "Au Pied de Cochon",
+        "contactos": {
+            "sitio_web": "http://www.aupieddecochon.rest/",
+            "email": "http://www.aupieddecochon.rest/",
+            "telefono": "+525553277756"
+        },
+        "direcciones": {
+            "calle": "Campos Elíseos 218, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.42831083892141,
+            "longitud": -99.1944982855879
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://th.bing.com/th/id/R.597e6faec0fce65ffdca0598bc05ba68?rik=BrXyuFA%2fP%2bM8JQ&pid=ImgRaw&r=0",
+        "nombre": "Sonora Prime",
+        "contactos": {
+            "sitio_web": "https://sonoraprime.com.mx/",
+            "email": "https://sonoraprime.com.mx/",
+            "telefono": "+525553277756"
+        },
+        "direcciones": {
+            "calle": "Hotel Hilton, Av. Juarez #70-Local 1, Colonia Centro, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.436608902467274,
+            "longitud": -99.14709544898632
+        }
+    },
+    {
+        "rating": 4,
+        "imagen": "https://th.bing.com/th/id/OIP.3VoVUKXPCo1JNX8vo0lkXgHaHa?rs=1&pid=ImgDetMain",
+        "nombre": "Restaurante Rosetta",
+        "contactos": {
+            "sitio_web": "https://rosetta.com.mx/",
+            "email": "https://rosetta.com.mx/",
+            "telefono": "+525555337804"
+        },
+        "direcciones": {
+            "calle": "Colima 166, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.420501199787964,
+            "longitud": -99.1593692362976
+        }
+    },
+    {
+        "rating": 4,
+        "imagen": "https://th.bing.com/th/id/OIP.H1G8FJJID99O_5cPnigcqAHaD4?rs=1&pid=ImgDetMain",
+        "nombre": "Porfirio's Masaryk",
+        "contactos": {
+            "sitio_web": "https://porfirios.com.mx/restaurante-mexicano-en-masaryk",
+            "email": "https://porfirios.com.mx/restaurante-mexicano-en-masaryk",
+            "telefono": "+525552801494"
+        },
+        "direcciones": {
+            "calle": "Av. Pdte. Masaryk 214, Polanco, Polanco V Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.433241022162782,
+            "longitud": -99.19004720354232
+        }
+    },
+    {
+        "rating": 4,
+        "imagen": "https://th.bing.com/th/id/OIP.kGyg4hAAMJYZ1MQpuEYGCgAAAA?rs=1&pid=ImgDetMain",
+        "nombre": "La Buena Barra CDMX",
+        "contactos": {
+            "sitio_web": "http://labuenabarra.com.mx/",
+            "email": "http://labuenabarra.com.mx/",
+            "telefono": "+525552806699"
+        },
+        "direcciones": {
+            "calle": "Esq, Aristóteles 124, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.433160081247998,
+            "longitud": -99.19356626144274
+        }
+    },
+    {
+        "rating": 4,
+        "imagen": "https://www.puertomaderorestaurantes.com/wp-content/uploads/2023/03/P_M4602-2-scaled.jpg",
+        "nombre": "Puerto Madero",
+        "contactos": {
+            "sitio_web": "http://www.puertomaderorestaurantes.com/",
+            "email": "http://www.puertomaderorestaurantes.com/",
+            "telefono": "+525555456098"
+        },
+        "direcciones": {
+            "calle": "Av. Pdte. Masaryk 110, Polanco, Bosques de Chapultepec, Miguel Hidalgo, 11580 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.432269728522694,
+            "longitud": -99.18506902407339
+        }
+    },
+    {
+        "rating": 4,
+        "imagen": "https://i.blogs.es/5e2ceb/les-moustaches-restaurante-clasico-comida-francesa-nunca-pasa-de-moda-mexico-7/450_1000.jpg",
+        "nombre": "Les Moustaches",
+        "contactos": {
+            "sitio_web": "https://www.lesmoustaches.com.mx/menuacute.html",
+            "email": "https://www.lesmoustaches.com.mx/menuacute.html",
+            "telefono": "+525555333390"
+        },
+        "direcciones": {
+            "calle": "Río Sena 88 Entre Paseo dela Reforma, C. Río Lerma y, Cuauhtémoc, 06500 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.430893719261814,
+            "longitud": -99.16601461210121
+        }
+    },
+    {
+        "rating": 4,
+        "imagen": "https://images.otstatic.com/prod/24931954/1/large.jpg",
+        "nombre": "Pujol",
+        "contactos": {
+            "sitio_web": "http://pujol.com.mx/",
+            "email": "http://pujol.com.mx/",
+            "telefono": "+525555454111"
+        },
+        "direcciones": {
+            "calle": "Tennyson 133, Polanco, Polanco IV Secc, Miguel Hidalgo, 11570 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.434455131050044,
+            "longitud": -99.19536870483162
+        }
+    },
+    {
+        "rating": 3,
+        "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/11/c6/01/8f/photo0jpg.jpg",
+        "nombre": "Café El Popular",
+        "contactos": {
+            "sitio_web": "https://www.facebook.com/profile.php?id=100057696798640",
+            "email": "cafeelpopular@gmail.com",
+            "telefono": "+525555186081"
+        },
+        "direcciones": {
+            "calle": "Av. 5 de Mayo 50 y 52, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Cuauhtémoc, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.43687960106757,
+            "longitud": -99.1357739955838
+        }
+    },
+    {
+        "rating": 3,
+        "imagen": "https://th.bing.com/th/id/OIP.Ovl_KTmV6qQ24xo_jyaccAHaE8?rs=1&pid=ImgDetMain",
+        "nombre": "Helena",
+        "contactos": {
+            "sitio_web": "http://www.helenas.com.mx/",
+            "email": "http://www.helenas.com.mx/",
+            "telefono": "+525555149977"
+        },
+        "direcciones": {
+            "calle": "Havre 42, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.428947437063133,
+            "longitud": -99.16005626605683
+        }
+    },
+    {
+        "rating": 2,
+        "imagen": "https://th.bing.com/th/id/OIP.6ltfm6GnQHDBnZKP372hEQAAAA?rs=1&pid=ImgDetMain",
+        "nombre": "Bistro BÈC",
+        "contactos": {
+            "sitio_web": "https://bistrobec.menumaniamx.com/",
+            "email": "https://bistrobec.menumaniamx.com/",
+            "telefono": "+525552809043"
+        },
+        "direcciones": {
+            "calle": "Virgilio 8, Polanco, Polanco III Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.43062689084134,
+            "longitud": -99.19740600265726
+        }
+    },
+    {
+        "rating": 1,
+        "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/11/f4/bd/db/salon-corona-bolivar.jpg",
+        "nombre": "Salón Corona",
+        "contactos": {
+            "sitio_web": "http://www.saloncorona.com.mx/",
+            "email": "http://www.saloncorona.com.mx/",
+            "telefono": "+525555125725"
+        },
+        "direcciones": {
+            "calle": "Calle de Bolívar 24, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Cuauhtémoc, CDMX",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "latitud": 19.441082175903,
+            "longitud": -99.13309442829156
+        }
+    }
+]

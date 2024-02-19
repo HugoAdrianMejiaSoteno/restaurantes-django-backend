@@ -1,0 +1,345 @@
+[
+    {
+        "rating": 5,
+        "imagen": "https://th.bing.com/th/id/OIP.F5aMLaE1Vvkjh-T4EpyqvAHaLH?w=800&h=1200&rs=1&pid=ImgDetMain",
+        "name": "Hurtado, Rolón and S",
+        "contact": {
+            "site": "https://elías.org",
+            "email": "https://elías.org",
+            "phone": "559.867.074"
+        },
+        "address": {
+            "street": "039 Susana Polígono",
+            "city": "Marco Antonioland",
+            "state": "Colima",
+            "location": {
+                "lat": 19.43349766301504,
+                "lng": -99.12851350657212
+            }
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://www.e-architect.com/wp-content/uploads/2021/12/ling-ling-restaurant-by-hakkasan-lighting-u071221-m5.jpg",
+        "name": "Ling Ling by Hakkasan",
+        "contact": {
+            "site": "https://linktr.ee/linglingmx",
+            "email": "https://linktr.ee/linglingmx",
+            "phone": "+525532799204"
+        },
+        "address": {
+            "street": "Av. P.º de la Reforma 509-Piso 56, Cuauhtémoc, 06500 , CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.424603873103642,
+                "lng": -99.17583958214234
+            }
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://resizer.otstatic.com/v2/photos/large/25739301.jpg",
+        "name": "Quintonil",
+        "contact": {
+            "site": "http://www.quintonil.com/",
+            "email": "http://www.quintonil.com/",
+            "phone": "+525552802680"
+        },
+        "address": {
+            "street": "Av. Isaac Newton 55, Polanco, Polanco IV Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.43168407803681,
+                "lng": -99.19163214142823
+            }
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://th.bing.com/th/id/OIP.gZOH3inJSJiVVB-InUQbXQHaLH?rs=1&pid=ImgDetMain",
+        "name": "Restaurante Sonia",
+        "contact": {
+            "site": "https://restaurantesonia.com.mx/",
+            "email": "https://restaurantesonia.com.mx/",
+            "phone": "+525559414956"
+        },
+        "address": {
+            "street": "Oxford 23, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.42556136323589,
+                "lng": -99.16895863159105
+            }
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://th.bing.com/th/id/R.da4fefa0973d2a5e25ffc1f120223a41?rik=5kQnesxuL86HhA&riu=http%3a%2f%2fcdn.designrulz.com%2fwp-content%2fuploads%2f2015%2f08%2fchapulin-restaurant_designrulz-6.jpg&ehk=InWV%2f6pAQjG6Q9kYTqwVuNi%2fg0xa5lkwkJ7GCLnKVrs%3d&risl=&pid=ImgRaw&r=0",
+        "name": "Chapulín",
+        "contact": {
+            "site": "http://www.chapulin.rest/",
+            "email": "http://www.chapulin.rest/http://www.chapulin.rest/",
+            "phone": "+525553277789"
+        },
+        "address": {
+            "street": "Campos Elíseos 218, Polanco, Polanco IV Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.428715555175064, 
+                "lng": -99.19295333333889
+            }
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://foodandpleasure.com/wp-content/uploads/2018/09/rosa-negra-06.jpg",
+        "name": "Rosa Negra ",
+        "contact": {
+            "site": "https://rosanegra.com.mx/es/menu",
+            "email": "https://rosanegra.com.mx/es/menu",
+            "phone": "+525552822603"
+        },
+        "address": {
+            "street": "Av. Pdte. Masaryk 298, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.432924544435554, 
+                "lng": -99.19346831742192
+            }
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://th.bing.com/th/id/OIP.G7e20YqjkgBV7mqvzm0qLQAAAA?rs=1&pid=ImgDetMain",
+        "name": "Au Pied de Cochon",
+        "contact": {
+            "site": "http://www.aupieddecochon.rest/",
+            "email": "http://www.aupieddecochon.rest/",
+            "phone": "+525553277756"
+        },
+        "address": {
+            "street": "Campos Elíseos 218, Polanco, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.42831083892141, 
+                "lng": -99.1944982855879
+            }
+        }
+    },
+    {
+        "rating": 5,
+        "imagen": "https://th.bing.com/th/id/R.597e6faec0fce65ffdca0598bc05ba68?rik=BrXyuFA%2fP%2bM8JQ&pid=ImgRaw&r=0",
+        "name": "Sonora Prime",
+        "contact": {
+            "site": "https://sonoraprime.com.mx/",
+            "email": "https://sonoraprime.com.mx/",
+            "phone": "+525553277756"
+        },
+        "address": {
+            "street": "Hotel Hilton, Av. Juarez #70-Local 1, Colonia Centro, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.436608902467274, 
+                "lng": -99.14709544898632
+            }
+        }
+    },
+    {
+        "rating": 4,
+        "imagen": "https://th.bing.com/th/id/OIP.3VoVUKXPCo1JNX8vo0lkXgHaHa?rs=1&pid=ImgDetMain",
+        "name": "Restaurante Rosetta",
+        "contact": {
+            "site": "https://rosetta.com.mx/",
+            "email": "https://rosetta.com.mx/",
+            "phone": "+525555337804"
+        },
+        "address": {
+            "street": "Colima 166, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.420501199787964, 
+                "lng": -99.1593692362976
+            }
+        }
+    },
+    {
+        "rating": 4,
+        "imagen": "https://th.bing.com/th/id/OIP.H1G8FJJID99O_5cPnigcqAHaD4?rs=1&pid=ImgDetMain",
+        "name": "Porfirio's Masaryk",
+        "contact": {
+            "site": "https://porfirios.com.mx/restaurante-mexicano-en-masaryk",
+            "email": "https://porfirios.com.mx/restaurante-mexicano-en-masaryk",
+            "phone": "+525552801494"
+        },
+        "address": {
+            "street": "Av. Pdte. Masaryk 214, Polanco, Polanco V Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.433241022162782, 
+                "lng": -99.19004720354232
+            }
+        }
+    },
+    {
+        "rating": 4,
+        "imagen": "https://th.bing.com/th/id/OIP.kGyg4hAAMJYZ1MQpuEYGCgAAAA?rs=1&pid=ImgDetMain",
+        "name": "La Buena Barra CDMX",
+        "contact": {
+            "site": "http://labuenabarra.com.mx/",
+            "email": "http://labuenabarra.com.mx/",
+            "phone": "+525552806699"
+        },
+        "address": {
+            "street": "Esq, Aristóteles 124, Polanco IV Secc, Miguel Hidalgo, 11550 Ciudad de México",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.433160081247998, 
+                "lng": -99.19356626144274
+            }
+        }
+    },
+    {
+        "rating": 4,
+        "imagen": "https://www.puertomaderorestaurantes.com/wp-content/uploads/2023/03/P_M4602-2-scaled.jpg",
+        "name": "Puerto Madero",
+        "contact": {
+            "site": "http://www.puertomaderorestaurantes.com/",
+            "email": "http://www.puertomaderorestaurantes.com/",
+            "phone": "+525555456098"
+        },
+        "address": {
+            "street": "Av. Pdte. Masaryk 110, Polanco, Bosques de Chapultepec, Miguel Hidalgo, 11580 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.432269728522694, 
+                "lng": -99.18506902407339
+            }
+        }
+    },
+    {
+        "rating": 4,
+        "imagen": "https://i.blogs.es/5e2ceb/les-moustaches-restaurante-clasico-comida-francesa-nunca-pasa-de-moda-mexico-7/450_1000.jpg",
+        "name": "Les Moustaches",
+        "contact": {
+            "site": "https://www.lesmoustaches.com.mx/menuacute.html",
+            "email": "https://www.lesmoustaches.com.mx/menuacute.html",
+            "phone": "+525555333390"
+        },
+        "address": {
+            "street": "Río Sena 88 Entre Paseo dela Reforma, C. Río Lerma y, Cuauhtémoc, 06500 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.430893719261814, 
+                "lng": -99.16601461210121
+            }
+        }
+    },
+    {
+        "rating": 4,
+        "imagen": "https://images.otstatic.com/prod/24931954/1/large.jpg",
+        "name": "Pujol",
+        "contact": {
+            "site": "http://pujol.com.mx/",
+            "email": "http://pujol.com.mx/",
+            "phone": "+525555454111"
+        },
+        "address": {
+            "street": "Tennyson 133, Polanco, Polanco IV Secc, Miguel Hidalgo, 11570 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.434455131050044, 
+                "lng": -99.19536870483162
+            }
+        }
+    },
+    {
+        "rating": 3,
+        "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/11/c6/01/8f/photo0jpg.jpg",
+        "name": "Café El Popular",
+        "contact": {
+            "site": "https://www.facebook.com/profile.php?id=100057696798640",
+            "email": "cafeelpopular@gmail.com",
+            "phone": "+525555186081"
+        },
+        "address": {
+            "street": "Av. 5 de Mayo 50 y 52, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Cuauhtémoc, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.43687960106757, 
+                "lng": -99.1357739955838
+            }
+        }
+    },
+    {
+        "rating": 3,
+        "imagen": "https://th.bing.com/th/id/OIP.Ovl_KTmV6qQ24xo_jyaccAHaE8?rs=1&pid=ImgDetMain",
+        "name": "Helena",
+        "contact": {
+            "site": "http://www.helenas.com.mx/",
+            "email": "http://www.helenas.com.mx/",
+            "phone": "+525555149977"
+        },
+        "address": {
+            "street": "Havre 42, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.428947437063133, 
+                "lng": -99.16005626605683
+            }
+        }
+    },
+    {
+        "rating": 2,
+        "imagen": "https://th.bing.com/th/id/OIP.6ltfm6GnQHDBnZKP372hEQAAAA?rs=1&pid=ImgDetMain",
+        "name": "Bistro BÈC",
+        "contact": {
+            "site": "https://bistrobec.menumaniamx.com/",
+            "email": "https://bistrobec.menumaniamx.com/",
+            "phone": "+525552809043"
+        },
+        "address": {
+            "street": "Virgilio 8, Polanco, Polanco III Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.43062689084134, 
+                "lng": -99.19740600265726
+            }
+        }
+    },
+    {
+        "rating": 1,
+        "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/11/f4/bd/db/salon-corona-bolivar.jpg",
+        "name": "Salón Corona",
+        "contact": {
+            "site": "http://www.saloncorona.com.mx/",
+            "email": "http://www.saloncorona.com.mx/",
+            "phone": "+525555125725"
+        },
+        "address": {
+            "street": "Calle de Bolívar 24, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Cuauhtémoc, CDMX",
+            "city": "Ciudad de México",
+            "state": "CDMX",
+            "location": {
+                "lat": 19.441082175903, 
+                "lng": -99.13309442829156
+            }
+        }
+    }
+    
+]
